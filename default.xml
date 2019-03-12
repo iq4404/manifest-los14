@@ -507,8 +507,8 @@
   <project path="tools/test/connectivity" name="platform/tools/test/connectivity" groups="pdk" remote="aosp" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" remote="aosp" />
 
-  <project path="device/Fly/IQ4404" name="iq4404/device-los" revision="master" />
-  <project path="vendor/Fly/IQ4404" name="iq4404/vendor" revision="master" />
+  <project path="device/Fly/IQ4404" name="iq4404/device-los" revision="cm-14.1" />
+  <project path="vendor/Fly/IQ4404" name="iq4404/vendor" revision="cm-14.1" />
 
   <include name="snippets/cm.xml" />
 
